@@ -1,2 +1,2 @@
 # Product-price-analysis
-Performed an Excel-based analysis on product pricing data to identify the top 5 categories with significant price drops affecting store business performance.
+This project focuses on analyzing a raw dataset (CSV) containing product details, categories, and historical price data. Using Excel, I performed data analysis to identify the top 5 categories where significant price drops occurred, which impacted the store's business performance. The analysis highlights key trends and insights, providing valuable information for business decision-making.
